@@ -17,7 +17,7 @@
     "@usedapp/wallet-connect-connector": "workspace:*",
     "next": "12.1.2",
     "react": "17.0.1",
-    "react-dom": "17.0.1",
+    "react-dom": "19.0.0",
     "styled-components": "^5.2.1"
   },
   "devDependencies": {
