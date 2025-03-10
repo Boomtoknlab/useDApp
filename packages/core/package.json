@@ -19,7 +19,7 @@
   "dependencies": {
     "@metamask/detect-provider": "^2.0.0",
     "@uniswap/token-lists": "^1.0.0-beta.27",
-    "fetch-mock": "^9.11.0",
+    "fetch-mock": "^12.3.0",
     "lodash.merge": "^4.6.2",
     "lodash.pickby": "^4.6.0",
     "nanoid": "3.3.4"
