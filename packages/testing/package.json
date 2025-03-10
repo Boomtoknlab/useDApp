@@ -32,7 +32,7 @@
     "@ethersproject/providers": "5.7.2",
     "@usedapp/core": "workspace:*",
     "ethers": "5.7.2",
-    "react": "17.0.1",
+    "react": "19.0.0",
     "react-dom": "17.0.1"
   },
   "scripts": {
