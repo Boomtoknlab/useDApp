@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@changesets/cli": "^2.14.1",
-    "ethers": "5.7.2",
+    "ethers": "6.13.5",
     "prettier": "2.1.2"
   },
   "resolutions": {
