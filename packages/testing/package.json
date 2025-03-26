@@ -29,7 +29,7 @@
   "dependencies": {
     "@ethersproject/constants": "5.7.0",
     "@ethersproject/contracts": "5.7.0",
-    "@ethersproject/providers": "5.7.2",
+    "@ethersproject/providers": "5.8.0",
     "@usedapp/core": "workspace:*",
     "ethers": "6.13.5",
     "react": "17.0.1",
