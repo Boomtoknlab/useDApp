@@ -21,7 +21,7 @@
     "test:playwright": "mocha -r ts-node/register/transpile-only './playwright/**/*.test.ts' --bail"
   },
   "dependencies": {
-    "@algolia/client-search": "^4.9.1",
+    "@algolia/client-search": "^5.25.0",
     "@cmfcmf/docusaurus-search-local": "^0.11.0",
     "@docusaurus/core": "2.4.3",
     "@docusaurus/preset-classic": "2.0.0-beta.17",
